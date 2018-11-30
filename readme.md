@@ -4,15 +4,21 @@ Exploratory Data Analysis using Python for Suicides Data almost World Wide
 
 You can find the data [here](https://www.kaggle.com/szamil/who-suicide-statistics)
 
-Number of suicides by gender
-
-![suicides](https://github.com/andreaschandra/who-suicides-statistics/blob/master/suicides_by_gender.jpg "Suicides by gender")
+Variables in the data:
+- country: Country like United States
+- year: Year like 2016
+- sex: Sex like Male and Female
+- age: Age Group
+- suicides_no: Number of suicides
+- population: Number of all living people in that year and country
 
 Number of suicides drastically drop in 2016
-
 ![suicides](https://github.com/andreaschandra/who-suicides-statistics/blob/master/num_suicides_over_year.jpg "Suicides")
 
-but really? Check the data
+Number of suicides by gender
+![suicides](https://github.com/andreaschandra/who-suicides-statistics/blob/master/suicides_by_gender.jpg "Suicides by gender")
+
+## but really? Check the data
 
 Oh no! the data is not always available over time
 ![suicides](https://github.com/andreaschandra/who-suicides-statistics/blob/master/records_each_year.jpg "Suicides")
