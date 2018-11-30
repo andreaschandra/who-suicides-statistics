@@ -3,3 +3,5 @@
 Explorator Data Analysis using Python for Suicides Data almost World Wide
 
 You can find the data [here](https://www.kaggle.com/szamil/who-suicide-statistics)
+
+![alt text](https://github.com/andreaschandra/num_suicides_over_year.jpg, "Suicides")
